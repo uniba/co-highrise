@@ -1,0 +1,21 @@
+{
+  "name": "co-highrise",
+  "version": "0.0.1",
+  "repository": "uniba/co-highrise",
+  "description": "Highrise API wrapper for generators with co",
+  "keywords": [
+    "highrise",
+    "co",
+    "generators"
+  ],
+  "dependencies": {
+    "thunkify": "0.0.1",
+    "node-highrise-api": "~0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "co": "~3.0.5"
+  },
+  "license": "MIT"
+}
